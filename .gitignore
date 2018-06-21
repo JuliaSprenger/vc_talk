@@ -17,3 +17,6 @@
 *.backup
 *.gz
 *.dvi
+
+## Project specific source folders
+sources/*
